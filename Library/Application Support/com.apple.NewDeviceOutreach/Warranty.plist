@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acLocalizedOfferDetails</key>
+	<string> </string>
+	<key>acLocalizedOfferDetailsPluralEligibilityFormat</key>
+	<string>Your product is covered for eligible hardware repairs and service.</string>
+	<key>acLocalizedOfferDetailsSingularEligibility</key>
+	<string>Your product is covered for eligible hardware repairs and service.</string>
+	<key>acLocalizedOfferLabel</key>
+	<string>Apple Limited Warranty</string>
+	<key>acLogoToggle</key>
+	<false/>
+	<key>acOfferEligible</key>
+	<false/>
+	<key>acOfferIdentifier</key>
+	<string>OC1</string>
+	<key>agsURL</key>
+	<string>https://agreements.apple.com/acsales/IN/en/token/6438f55e1d66a4daccbc81c2?callerId=%@</string>
+	<key>cacheTtlMinutes</key>
+	<integer>480</integer>
+	<key>coverage</key>
+	<dict>
+		<key>benefitsCard</key>
+		<dict>
+			<key>benefitDetails</key>
+			<array>
+				<dict>
+					<key>localizedBenefitLabel</key>
+					<string>Hardware Service</string>
+					<key>localizedBenefitValue</key>
+					<string>You can get Apple-certified repairs and service with one of our Apple Authorized Service Providers. </string>
+				</dict>
+				<dict>
+					<key>localizedBenefitLabel</key>
+					<string>Chat &amp; Phone Support</string>
+					<key>localizedBenefitValue</key>
+					<string>Contact us for expert technical support from the people who know your product best.</string>
+				</dict>
+			</array>
+			<key>localizedBenefitsCardFooter</key>
+			<string>Service is governed by specific AppleCare Terms and Conditions and is limited to the service options available in the country where service is requested. Service options, parts availability and response times may vary.</string>
+			<key>localizedBenefitsCardSubTitle</key>
+			<string>Your coverage includes the following benefits:</string>
+			<key>localizedBenefitsCardTitle</key>
+			<string>Apple Limited Warranty Benefits</string>
+		</dict>
+		<key>coverageDetails</key>
+		<array>
+			<dict>
+				<key>localizedCoverageLabel</key>
+				<string>Hardware Service</string>
+				<key>localizedCoverageSubText</key>
+				<string>Get Apple-certified repairs and service with one of our Apple Authorized Service Providers</string>
+				<key>localizedCoverageValue</key>
+				<string>Covered</string>
+			</dict>
+			<dict>
+				<key>localizedCoverageLabel</key>
+				<string>Chat &amp; Phone Support</string>
+				<key>localizedCoverageSubText</key>
+				<string>Contact us by chat or phone for expert technical support</string>
+				<key>localizedCoverageValue</key>
+				<string>Covered</string>
+			</dict>
+		</array>
+		<key>localizedCoverageFooterFormatString</key>
+		<string>Your product is covered for eligible hardware repairs and service. %@</string>
+		<key>localizedCoverageFooterLinkLabel</key>
+		<string>Learn more about benefits…</string>
+		<key>localizedCoverageTitle</key>
+		<string>COVERAGE DETAILS</string>
+	</dict>
+	<key>coverageEndDate</key>
+	<integer>1705276800</integer>
+	<key>coverageLocalizedDesc</key>
+	<string>Limited Warranty</string>
+	<key>coverageLocalizedDescLong</key>
+	<string>Your product is covered for eligible hardware repairs and service.</string>
+	<key>coverageLocalizedExpirationLabel</key>
+	<string>Expires</string>
+	<key>coverageLocalizedLabel</key>
+	<string>Limited Warranty</string>
+	<key>coverageTypeCode</key>
+	<string>LI</string>
+	<key>covered</key>
+	<true/>
+	<key>deviceInfo</key>
+	<dict>
+		<key>deviceDesc</key>
+		<string>MacBook Air</string>
+		<key>deviceImageUrl</key>
+		<string>https://support.apple.com/content/dam/edam/applecare/images/en_US/applecare/ios/PGF12005_3x.png</string>
+		<key>parentId</key>
+		<string>300872</string>
+		<key>pfcId</key>
+		<string>PFC1002</string>
+		<key>pgfId</key>
+		<string>PGF12005</string>
+		<key>sgId</key>
+		<string>SG001</string>
+	</dict>
+	<key>displayRepairAndSupport</key>
+	<true/>
+	<key>featureToggleParameters</key>
+	<dict>
+		<key>acOfferDisplay</key>
+		<false/>
+		<key>acOfferDurationDaysBeforeEndDate</key>
+		<integer>1000</integer>
+		<key>acOfferSettingsAppBadge</key>
+		<false/>
+		<key>acOfferToggle</key>
+		<array>
+			<string>1111</string>
+		</array>
+	</dict>
+	<key>footer1FormatString</key>
+	<string>Service is governed by specific AppleCare Terms and Conditions and is limited to the service options available in the country where service is requested. Service options, parts availability and response times may vary. Coverage status and expiration date are estimated. Your warranty is the same whether or not you register. %@</string>
+	<key>footer1LinkLabel</key>
+	<string>Learn about Apple’s coverage information for your product...</string>
+	<key>footer1LinkURL</key>
+	<string>https://support.apple.com/en-us/HT202696</string>
+	<key>footer2FormatString</key>
+	<string>Important: Apple’s Limited Warranty and AppleCare product benefits are in addition to rights provided by consumer law. If you believe you have a valid consumer law claim, please contact us. %@</string>
+	<key>footer2LinkLabel</key>
+	<string>See details...</string>
+	<key>footer2LinkURL</key>
+	<string>http://www.apple.com/legal/warranty</string>
+	<key>getSupportURL</key>
+	<string>https://getsupport.apple.com/?caller=aboutthismac&amp;locale=en_IN&amp;snKey=6438f55e1d66a4daccbc81c2</string>
+	<key>isAPSSupported</key>
+	<false/>
+	<key>isAcServicesPartner</key>
+	<false/>
+	<key>isAcSubscription</key>
+	<false/>
+	<key>localizedCoveredDeviceDateLabelFormat</key>
+	<string>Expires: %@</string>
+	<key>localizedSupportAppFooter</key>
+	<string>Schedule a visit at the Apple Store or an Apple Authorized Service Provider, call or chat with an Advisor, troubleshoot issues, and more.</string>
+	<key>localizedSupportAppLabel</key>
+	<string>GET REPAIR OR SUPPORT</string>
+	<key>mySupportURL</key>
+	<string>https://mysupport.apple.com/product/6438f55e1d66a4daccbc81c2?caller=macos&amp;selectedLocale=en_IN</string>
+	<key>responseUUID</key>
+	<string>2a272f5f-95b8-477b-b07a-6f358cf432ca</string>
+	<key>showNotificationBeforeEndDate</key>
+	<integer>15</integer>
+	<key>showNotificationToggle</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+[2023-04-04][18:06:26][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2023-04-04][18:06:26][DEBUG][discord_dispatch::application_manager:1029] Searching for applications. install_path=AbsolutePath { path_buf: "/Applications/DiscordGames" }
+[2023-04-04][18:06:26][WARN][discord_dispatch::application_manager:1033] Failed to read install path. path=AbsolutePath { path_buf: "/Applications/DiscordGames" } error=Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2023-04-04][18:06:26][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2023-04-07][03:21:24][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2023-04-07][03:21:24][DEBUG][discord_dispatch::application_manager:1029] Searching for applications. install_path=AbsolutePath { path_buf: "/Applications/DiscordGames" }
+[2023-04-07][03:21:24][WARN][discord_dispatch::application_manager:1033] Failed to read install path. path=AbsolutePath { path_buf: "/Applications/DiscordGames" } error=Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2023-04-07][03:21:24][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2023-04-07][04:46:20][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-07][10:18:12][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-07][11:19:54][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-07][12:56:06][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-07][14:09:54][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-07][15:22:56][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-07][18:11:13][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2023-04-07][18:11:13][DEBUG][discord_dispatch::application_manager:1029] Searching for applications. install_path=AbsolutePath { path_buf: "/Applications/DiscordGames" }
+[2023-04-07][18:11:13][WARN][discord_dispatch::application_manager:1033] Failed to read install path. path=AbsolutePath { path_buf: "/Applications/DiscordGames" } error=Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2023-04-07][18:11:13][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2023-04-07][18:26:05][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-07][18:42:13][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-07][20:02:35][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-12][22:42:28][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2023-04-12][22:42:28][DEBUG][discord_dispatch::application_manager:1029] Searching for applications. install_path=AbsolutePath { path_buf: "/Applications/DiscordGames" }
+[2023-04-12][22:42:28][WARN][discord_dispatch::application_manager:1033] Failed to read install path. path=AbsolutePath { path_buf: "/Applications/DiscordGames" } error=Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2023-04-12][22:42:28][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2023-04-12][22:46:44][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2023-04-12][22:54:37][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2023-04-12][22:54:37][DEBUG][discord_dispatch::application_manager:1029] Searching for applications. install_path=AbsolutePath { path_buf: "/Applications/DiscordGames" }
+[2023-04-12][22:54:37][WARN][discord_dispatch::application_manager:1033] Failed to read install path. path=AbsolutePath { path_buf: "/Applications/DiscordGames" } error=Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2023-04-12][22:54:37][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2023-04-13][14:21:42][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2023-04-13][14:21:42][DEBUG][discord_dispatch::application_manager:1029] Searching for applications. install_path=AbsolutePath { path_buf: "/Applications/DiscordGames" }
+[2023-04-13][14:21:42][WARN][discord_dispatch::application_manager:1033] Failed to read install path. path=AbsolutePath { path_buf: "/Applications/DiscordGames" } error=Os { code: 2, kind: NotFound, message: "No such file or directory" }
+[2023-04-13][14:21:43][DEBUG][discord_dispatch::application_manager:237] Resume requested.
